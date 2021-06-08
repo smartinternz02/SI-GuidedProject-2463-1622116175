@@ -1,0 +1,23 @@
+Implement Deep Learning Techniques To Detect Malaria Using IBM Cloud
+
+
+Malaria is a deadly, infectious mosquito-borne disease caused by Plasmodium parasites. These deadly parasites can live in your body for over a year without any problems!
+Thus, a delay in the right treatment can lead to complications and even death. Hence early and effective testing and detection of malaria can save lives. 
+Convolutional neural networks (CNN) have the ability to automatically extract features and learn filters.
+
+Libraries Used:
+TensorFlow
+Flask
+Render_Template
+Request
+ImageDatagenerator
+
+Frameworks used:
+Bootstrap 5
+
+Project Members
+Chinmai Kanala(Team Leader) 
+Maitreyi
+Eva Karra
+Dasari Manna
+Shobhan Babu
